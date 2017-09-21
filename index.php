@@ -39,6 +39,7 @@
 		$second->add_grade(80);
 		$second->add_grade(50);
 		$students['a456'] = $second;
+		
 		//student 3
 		$third = new Student();
 		$third->surname = "Zhao";
